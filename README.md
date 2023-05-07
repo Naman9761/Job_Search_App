@@ -26,7 +26,8 @@ Desktop View:
 Mobile View
 :::::::::::::::::::::::::::::::::::
 
-![Uploading Screenshot_20230507-113902_Expo Go.jpg…]()
+
+![Screenshot_20230507-113902_Expo Go](https://user-images.githubusercontent.com/100407963/236661262-d99e6e03-0362-4da7-95b3-00b8aefd0f0b.jpg)
 
 
 
